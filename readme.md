@@ -1,8 +1,7 @@
 # Swan's Library
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S11YS2IN)
-Made with love by swan <3
 <p align="center">
-  # Swan's Library
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S11YS2IN)
+Made with love by swan <3
 </p>
 ### About:
 This is a homepage to access all of my guides for all of my everythings!
