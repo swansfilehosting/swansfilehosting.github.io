@@ -1,6 +1,6 @@
 # Swan's Library
 <p align="center">
-  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S11YS2IN)
+  <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#72a4f2', 'S6S11YS2IN');kofiwidget2.draw();</script> 
 Made with love by swan <3
 </p>
 ### About:
